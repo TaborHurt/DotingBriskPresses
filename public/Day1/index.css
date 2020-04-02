@@ -5,3 +5,27 @@
 .center {
   text-align:center;
 }
+
+.right {
+  text-align: right;
+}
+
+.curve-border-box {
+  border: solid #eee 1px;
+  border-radius: 7px;
+  margin-bottom: 20px;
+  padding: 14px;
+}
+
+.bg-blue {
+background-color: #06f;
+}
+
+.inside {
+  max-width: 1024px;
+  margin: auto;
+}
+
+.white{
+  color: white;
+}
